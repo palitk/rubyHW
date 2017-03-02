@@ -1,0 +1,3 @@
+class CargoVagon < Train
+
+end
